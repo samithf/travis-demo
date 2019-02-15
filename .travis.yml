@@ -3,6 +3,7 @@ node_js:
   - '9'
 dist: trusty
 sudo: required
+github-token: 98e36590042559e929e4b7d2ef5396c6d65e50b9
 branches:
   only:
     - master
